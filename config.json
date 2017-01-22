@@ -1,6 +1,6 @@
 {
     "AWS Bucket Name": "bucket_name",
     "AWS Access Key ID": "App access_key",
-    "AWS Secret Key":"secret"
-    
+    "AWS Secret Key":"secret",
+    "AWS Region":"AWS Region"
 }
